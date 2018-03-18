@@ -1,0 +1,6 @@
+C:\Users\Gerry Ybanez\Desktop\Kristian\OOExercises\OOExercise1\OOExercise1\bin\Debug\OOExercise1.dll
+C:\Users\Gerry Ybanez\Desktop\Kristian\OOExercises\OOExercise1\OOExercise1\bin\Debug\OOExercise1.pdb
+C:\Users\Gerry Ybanez\Desktop\Kristian\OOExercises\OOExercise1\OOExercise1\obj\Debug\OOExercise1.csprojResolveAssemblyReference.cache
+C:\Users\Gerry Ybanez\Desktop\Kristian\OOExercises\OOExercise1\OOExercise1\obj\Debug\OOExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Gerry Ybanez\Desktop\Kristian\OOExercises\OOExercise1\OOExercise1\obj\Debug\OOExercise1.dll
+C:\Users\Gerry Ybanez\Desktop\Kristian\OOExercises\OOExercise1\OOExercise1\obj\Debug\OOExercise1.pdb
